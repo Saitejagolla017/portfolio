@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.banner-section-bg-container {
+    background-image: url("https://res.cloudinary.com/dwafa2w2v/image/upload/v1701071660/bg_image_nwusbh.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.about-section {
+    background-color: rgb(16, 10, 1);
+}
+.skills-section {
+    background-color:#00060c
+}
+.follow-me-section-icons {
+    width:120px;
+    height: 40px;
+    background-color: #faf7eb;
+    
+    
+}
+.icon {
+    color: #323f4b;
+    font-size: 28px;
+    
+}
+.heading {
+    font-family: "Roboto";
+    color:aqua;
+    font-weight: 700;
+}
+
+.description {
+    font-family: "Roboto";
+    font-size: 28px;
+}
+.button {
+    background-color: aqua;
+    width: 120px;
+    height: 30px;
+    border-width: 0px;
+    border-radius: 5px;
+}
+.heading{
+    color:aliceblue;
+    font-family: "Roboto";
+}
+.description{
+    color: aliceblue;
+    font-family: "Roboto";
+}
+.second-heading{
+    color:aliceblue;
+    font-family: "Roboto";
+}
+#navItem1 {
+    color:#323f4b;
+    font-family: "Roboto";
+}
+#navItem2 {
+    color:#323f4b;
+    font-family: "Roboto";
+}
+#navItem3 {
+    color:#323f4b;
+    font-family: "Roboto";
+}
